@@ -1,0 +1,7 @@
+Himport os
+os.system ("clear")
+
+list99 = 100000000
+while list99 < 999999999 :
+    list99=list99+1
+    print (list99)
